@@ -47,7 +47,7 @@
 
 ### Current status:
 Part 1: Done!
-Part 2: In progress, not public yet
+Part 2: Done!
 Part 3: Not started yet
 Part 4: Not started yet
 Part 5: Not started yet
