@@ -29,13 +29,12 @@
 3. Delete the csv files from the project bin folder.
 
 ### Tips:
-- As of now, the software will expect `NaN` to be returned if the output is not a number (i.e. dividing by zero)
 - Fractions are NOT to be reduced to simplist form for Mixed Number <---> Improper fraction methods (i.e. denominator should not change)
 - Negative signs go with the number if there is no term before it, or if there is a term before it, make it a minus sign with a space in between, i.e. `-2x - 3`
 - When there is a variable, do not include a coefficient of 1 or -1, rather dropping it or adding the - as appropriate
 - 0 is 0, no 0/5 or an empty string or something, just return 0.
 - For stuff that returns strings, be wary of spaces before/after that shouldn't be there
-- Do NOT round; the checker automatically rounds as needed to take into account floating point number rounding
+- Do NOT round unless that is part of the assignment; the checker automatically rounds as needed to take into account floating point number rounding
 - For the purposes of this checker, Mixed numbers will only have a negative in the whole number part if at all, and it applies to the entire mixed number. However, if the whole number part is 0, the numerator may have a negative that needs to be respected. Otherwise you can assume it is positive. i.e. -3_2/3 --> -3 - 2/3 --> -11/3, not -3 + 2/3. You may also get -7/8 or something, which should just translate right back to -7/8.
 	- If you want to get fancy, you can always do input validation
 
@@ -48,6 +47,6 @@
 ### Current status:
 Part 1: Done!
 Part 2: Done!
-Part 3: Not started yet
-Part 4: Not started yet
-Part 5: Not started yet
+Part 3: Done!
+Part 4: Done!
+Part 5: Trying to figure out how to do. Any ideas? DM me.
