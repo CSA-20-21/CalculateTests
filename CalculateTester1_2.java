@@ -1,7 +1,7 @@
 /*
  * Calculate.java Part 0-1 library checker
  * 
- * @author burturt (A M)
+ * @author burturt
  * @version 1.2
  */
 

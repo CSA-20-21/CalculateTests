@@ -1,3 +1,9 @@
+/*
+ * Calculate.java Part 2 library checker
+ * 
+ * @author burturt
+ * @version 2.0
+ */
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;

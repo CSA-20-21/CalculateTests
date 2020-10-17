@@ -2,7 +2,7 @@
  * Calculate.java Part 0-1 library checker
  * 
  * @author burturt
- * @version 1.2
+ * @version 1.3
  */
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -81,4 +81,3 @@ class CalculateTester1_3 {
 	}
 	
 }
-
