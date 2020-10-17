@@ -43,7 +43,7 @@
 - This is NOT "official" by the teacher, and as such may not test the things correctly. Follow instructions over what my tests say
 - The tests will still run even if you didn't fully complete a part, just all of the tests for that method will fail and you may need to click "ok" to ignore the warning.
 - I make mistakes, *please* feel free to ping me if there is a mistake somewhere
-- To keep things clean, only the latest version will be posted, though if you need an older version, use the git history feature to find it
+- Please use the latest version of each test!
 
 ### Current status:
 Part 1: Done!
