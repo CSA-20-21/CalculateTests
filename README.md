@@ -29,6 +29,7 @@
 3. Delete the csv files from the project bin folder.
 
 ### Tips:
+- The to improper frac/mixed num methods will have a test for when the demonimator is 0 or numerator is 0. You do not have to do this for the actual assignment.
 - Fractions are NOT to be reduced to simplist form for Mixed Number <---> Improper fraction methods (i.e. denominator should not change)
 - Negative signs go with the number if there is no term before it, or if there is a term before it, make it a minus sign with a space in between, i.e. `-2x - 3`
 - When there is a variable, do not include a coefficient of 1 or -1, rather dropping it or adding the - as appropriate
